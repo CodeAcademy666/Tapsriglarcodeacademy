@@ -1,0 +1,153 @@
+
+.header{
+   background: url(../img/photo.png);
+   height:  600px;
+   
+}
+.h1h1{
+	text-align: center;
+	margin-top:87px;
+
+}
+.h1h1 p{
+	text-align: center;
+	border-left: 50px;
+}
+.h1h1 img{
+	width: 255px;
+	margin-top: 24px
+}
+.buton{
+	background: none;
+	border-radius: 5px;
+	border-color: grey;
+
+}
+.mailbton{
+    text-align: center;
+    height: 50px;
+    background: none;
+    border-radius: 0.5px;
+    border-color: grey;
+    
+
+
+}
+.iphone{
+	height: 50px;
+	background-image: url(../img/iphone.png);
+}
+.base{
+   background: white;
+   height:  308px;
+   border-color: red;
+}
+.fa{
+	margin-top: 50px;
+	color:blue;
+}
+.melumat{
+   background-image: url(../img/iphone6.png);
+   background-repeat:no-repeat;
+   height:353px;
+   background-size: 395px;
+}
+.melumat h3{
+	font-size: 27px;
+    margin-left: 500px
+}
+.melumat p{
+	font-size: 14px;
+    margin-left: 500px
+}
+.btn-primary {
+
+	margin-left: 500px;
+}
+.map{
+   background: white;
+   height:  500px;
+   border-color: red;
+}
+.phones{
+   background: #F5F5F8;
+   height: 400px;
+   border-color: red;
+   background-size: 50px;
+   box-shadow: 10px 10px 30px #888888;
+}
+.phones img {
+    height: 264px;
+    vertical-align: middle;
+}
+.phones img:hover{
+	height:260px;
+	box-shadow: 10px 10px 30px #888888;
+	transition: width 5s;
+  -webkit-transition: width 2s;
+}
+.mail{
+   
+   background: #F5F5F8;
+   height: 300px;
+   
+}
+.mail.axdar{
+   text-align: center;
+
+
+
+}
+
+.malnixo{
+   margin-top:-50px;
+}
+.btn-green {
+    margin-left: -97px;
+    background-color: #6fc754;
+    color: white;
+    height: 27px;
+    border-radius: 18px;
+    width: 92px;
+}
+
+.mail input{
+    border-radius: 20px;
+    margin-left: 380px;
+    margin-top: 100px;
+   /* padding-left: 50px;*/
+    width: 240px;
+    height: 30px;
+    border:solid;
+    border-color: grey;
+    background-color: transparent;
+
+}
+.mail h1,h6{
+     text-align: center;
+
+
+
+
+}
+.proje{
+   height: 400px;
+   background-color: purple;
+
+}
+.blank{
+  height: 400px;
+  background-color: aqua;
+}
+.navbar-brand-centered {
+        position: absolute;
+        left: 50%;
+        display: block;
+        width: 160px;
+        text-align: center;
+        background-color: transparent;
+    }
+.navbar>.container .navbar-brand-centered, 
+.navbar>.container-fluid .navbar-brand-centered {
+        margin-left: -80px;
+    }
