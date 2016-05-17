@@ -1,0 +1,34 @@
+.slider{
+    width:500px;
+    margin:0 auto;
+  }
+.slider-item{
+width:500px;
+height:300px;
+overflow:hidden;
+}
+.slider-item img{
+  width:100%;
+  box-shadow: 10px 10px 20px darkgrey;
+  border: 5px dotted aqua;
+}
+.btns{
+  width:100%;
+  height:50px;
+
+}
+.left,.right{
+  width:100px;
+  height:50px;
+  cursor: pointer;
+  background:gray;
+}
+.btns div:hover{
+        background:red;
+}
+.left{
+        float:left;
+}
+.right{
+  float:right;
+}
