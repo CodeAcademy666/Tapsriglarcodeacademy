@@ -1,0 +1,286 @@
+body{
+    background-color:#953e46;
+}
+.logo{ margin-left:250px;
+    font-family:Arial;
+    font-size: 29px;
+}
+.search{
+
+margin-top:-65px; 
+margin-left: 560px;
+}
+
+.search input{
+    color: white;
+    background-color:#f0e2ca;
+       width: 300px;
+    height: 34px;
+}
+.search button{
+    background-color:#f0e2ca;
+    border:none;
+    color:#83212a;
+    margin-left: 15px;
+     width: 100px;
+    height: 40px;
+}
+i
+{  
+    color:#83212a;
+    margin-left:-23px; 
+    margin-top: 8px;
+    position: absolute;
+    
+}
+b{
+    margin-right: 0px;
+}
+.logo {
+    color: #fff;
+}
+i1{
+     color:#83212a;
+    margin-left:-70px; 
+    margin-top: -0px;
+    position: absolute;
+    
+}
+
+.user { 
+    margin-top: -40px;
+background-color: #f0e2ca;
+margin-left: 440px;
+  width: 40px;
+    height: 40px;
+}
+
+
+.twitter { 
+    margin-top: 5px;
+background-color: #f0e2ca;
+margin-left: 100px;
+  width: 40px;
+    height: 40px;
+}
+.facebook { 
+    margin-top: -40px;
+background-color: #f0e2ca;
+margin-left: 0px;
+  width: 40px;
+    height: 40px;
+}
+.linkedin { 
+    margin-top: -40px;
+background-color: #f0e2ca;
+margin-left: 48px;
+  width: 40px;
+    height: 40px;
+}
+
+
+
+
+
+.username{font-style: bold;
+    margin-left: 40px;
+   margin-top: -23px;
+    color: white;
+}
+
+.surname{
+ 
+    font-size:12px;
+     margin-left: 40px;
+   margin-top: -18px;
+    color: white;
+}
+
+.main{
+    width: 960px;
+margin: 0px auto;}
+
+.menu{
+    border-style: 20px;
+    border-top: 2px solid white;
+    border-bottom:2px solid white;
+    height: 39px;
+}
+menu{
+    border-top: 2px solid white;
+    border-bottom:2px solid white;
+    margin-top: 255px;
+}
+}
+.menu ul {
+ list-style-type: none;
+}
+.menu ul li{
+
+     display: inline;
+}
+.menu ul li a {
+
+    margin-right: 30px;
+    left: inline;
+    padding: 5px;
+    color: white;
+    font-size: 17px;
+    /*text-shadow: 2px 2px 10px black;*/
+    text-decoration: none;
+}
+
+
+
+
+.block1{
+    width: 390px;
+    height: 260px;
+    background: #F4E3CF;
+    margin-top: 50px;
+}
+.block2{
+    width: 189px;
+    height: 121px;
+    background: #F4E3CF;
+    position: absolute;
+    margin-left: 403px;
+    margin-top: -260px;
+}
+.clearFix{
+    clear:both;
+}
+.block3{
+    width: 189px;
+    height: 121px;
+    background: #F4E3CF;
+    margin-left: 403px;
+    margin-top: -121px;
+ }  
+.block4{
+    width: 189px;
+    height: 121px;
+    background: #F4E3CF;
+    margin-top: 18px;
+}
+.block5{
+    width: 189px;
+    height: 121px;
+    background: #F4E3CF;
+    margin-left: 200px;
+    margin-top: -121px;
+}
+.clearFix{
+    clear:both;
+}
+.block6{
+    width: 189px;
+    height: 121px;
+    background: #F4E3CF;
+    margin-left: 403px;
+    margin-top: -121px;
+}
+
+.block7{
+    width: 83px;
+    height: 65px;
+    margin-left: 621px;
+    margin-bottom: 442px;
+    background: #F4E3CF;
+    margin-top: -390px;
+}
+.block8{
+    width: 83px;
+    height: 65px;
+    background: #F4E3CF;
+    margin-left: 621px;
+    margin-bottom: 300px;
+    margin-top: -425px;
+
+}
+.block9{
+    width: 83px;
+    height: 65px;
+    background: #F4E3CF;
+    margin-left: 621px;
+    margin-bottom: 300px;
+    margin-top: -283px;
+}
+.block10{
+    width: 83px;
+    height: 65px;
+    background: #F4E3CF;
+    margin-left: 621px;
+    margin-bottom: 300px;
+    margin-top: -284px;
+}
+.block11{
+    width: 83px;
+    height: 65px;
+    background: #F4E3CF;
+    margin-left: 621px;
+    margin-bottom: 300px;
+    margin-top: -284px;
+
+}
+
+
+
+
+
+
+
+
+.footer{
+    border-top: 2px solid white;
+     
+}
+.footer ul {
+   
+ list-style-type: none;
+}
+.footer ul li{
+ 
+     display: inline;
+}
+.footer ul li a {
+
+    margin-right: 30px;
+    left: inline;
+    padding: 5px;
+    color: white;
+    font-size: 12px;
+    /*text-shadow: 2px 2px 10px black;*/
+    text-decoration: none;
+}
+
+.footer2{
+
+    
+}
+.footer2 ul {
+   
+ list-style-type: none;
+}
+.footer2 ul li{
+ 
+     display: inline;
+}
+.footer2 ul li a {
+
+    margin-right: 30px;
+    left: inline;
+    padding: 5px;
+    color: white;
+    font-size: 12px;
+    /*text-shadow: 2px 2px 10px black;*/
+    text-decoration: none;
+}
+
+h6{
+    color: white;
+}
+#h1{
+    color: #F4E3CF;
+    
+}

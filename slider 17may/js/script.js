@@ -18,17 +18,28 @@
 var img=["img/1.jpg","img/2.jpg","img/3.jpg","img/4.jpg"]
 i=0;
 function next(){
-  i++;
+	i++;
+	if(i<(img.length-1)){
+  gallery()
+ document.close()
+ return i;
+}else{
  gallery()
  document.close()
  return i;
+}
 
 }
 function prev(){
-  i--;
+    if (img.length<=0) {
+
+    };
+		i--;	
+  else{
  gallery()
  document.close()
     return i;
+  }
 
 }
 function gallery(){
@@ -41,6 +52,7 @@ function gallery(){
           document.write("<div class='right' onclick='next()' style=' width:100px; height:50px; cursor: pointer; background:gray;'>Next</div>");
       document.write("</div>");
   document.write("</div>");
+  console.log(i);
 }
 gallery();
 
