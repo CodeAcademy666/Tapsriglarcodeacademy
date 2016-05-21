@@ -1,0 +1,36 @@
+
+.democlass {
+    color: aqua;
+    font-size: 25px;
+}
+/*. h1 {
+    font-size: 20px;
+}*/
+#h33{
+	color: green;
+}
+#h33:hover {
+    background-color: yellow;
+}
+.photo img{
+	width: 800px;
+	height: 400px;
+	border-bottom: solid 50px red;
+	
+
+}
+
+
+.text input{
+	margin-bottom: 15px;
+	width: 800px;
+}
+.text{
+
+}
+button{
+	background: red;
+	border-radius: 30px;
+}
+
+/*Arif Hajiyev was removed*/

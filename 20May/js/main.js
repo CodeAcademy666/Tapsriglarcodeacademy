@@ -1,5 +1,5 @@
 document.getElementsByTagName("div")[0].style.background="aqua";
-document.getElementsByTagName("div")[0].style.background="red";
+document.getElementsByTagName("img")[0].style.background="red";
 
 document.getElementsByClassName("ibne")[0].style.background="#00695C";
 document.getElementsByClassName("ibne")[0].style.height="90px";
