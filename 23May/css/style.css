@@ -1,0 +1,63 @@
+/*body{
+    background-image: url(http://static.vecteezy.com/system/resources/previews/000/094/491/original/polygonal-texture-background-vector.jpg);
+}
+*/
+.menu5{
+    position: fixed;
+    z-index:1;
+}
+div.menu5{
+    
+    text-align:center;
+    background:#0288D1;
+    border:1px solid black;
+    font-size:0;
+    padding:1px;
+}
+
+div.menu5 a
+{
+    display: inline-block;
+    padding: 0 20px;
+    background:aqua
+    border:1px solid black;
+    color:aqua;
+    text-decoration:none;
+    font: bold 12px Arial;
+    line-height: 27px;
+    margin-right:1px;
+}
+
+div.menu5 a:hover, div.menu5 a.current
+{
+    background:#484037;
+    color:#E6D4C3;
+}
+.div1{
+    height: 900px;
+    widows: 400px;
+    background-image: url(https://pixabay.com/static/uploads/photo/2016/03/10/06/51/background-1247931_960_720.jpg);
+}
+.div2{
+    height: 900px;
+    widows: 400px;
+    background-image: url(http://i1.wp.com/static.web-backgrounds.net/uploads/2012/08/Abstract_Blue_Background_with_Wavy_Lines.jpg);
+}
+.div3{
+    height: 900px;
+    widows: 400px;
+    background-image: url(http://www.siwallpaperhd.com/wp-content/uploads/2015/07/geometric_black_wallpaper-724x407.jpg);
+}
+.div4{
+    height: 900px;
+    widows: 400px;
+    background-image: url(http://bgfons.com/upload/rainbow_texture660.jpg);
+}
+.div5{
+    height: 900px;
+    widows: 400px;
+    background-image: url(https://wallpaperscraft.com/image/background_patterns_lines_shadow_43860_1920x1080.jpg);
+}
+.logos {
+    background-color: aqua;
+}
