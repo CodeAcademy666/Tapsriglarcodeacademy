@@ -38,12 +38,11 @@ $(document).ready(function() {
 	.attr('id', 'main')
 	.click(function() {
 		$(this)
-		.html()
 		.animate({
 		"width":"600px",
 		"height":"500px",
 		"margin-left":"300px",
-		"marginTop":"250px",
+		"marginTop":"350px",
 		"margin-left":"300px",
 		});
 	});

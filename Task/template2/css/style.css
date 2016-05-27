@@ -1,0 +1,252 @@
+.logo{
+    margin-top: 50px;
+
+}
+.menu{
+    margin-top: 50px;
+}
+.menu a{
+
+        color: white;
+        font-family: "Raleway", sans-serif;
+        display: inline-block;
+        font-size: 12px;
+        transition: all 170ms;
+        text-decoration: none;
+        color: white;
+
+}
+a:hover{
+    text-decoration: none;
+}
+
+.signup {
+    margin-left: 40px;
+    color: white;
+    height: 37px;
+    line-height: 38px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    font-weight: 700;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    background: transparent;
+    font-size: 15px;
+    
+    
+}
+.text{
+    margin-top: 219px;
+    color:white;
+    margin-left: 100px;
+}
+.text p{
+    text-align: center;
+}
+ .search{
+        width: 343px;
+    height: 36px;
+    
+ }
+.text button{
+    width: 100px;
+     position: absolute;
+    margin-left: 0px;
+    color: white;
+    border-style: none;
+    height: 37px;
+    line-height: 38px;
+    font-weight: 700;
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    background: #E7434E;
+    font-size: 15px
+}
+    .header{
+	background-image: url(../img/bg.jpg);
+	height: 850px;
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.main1{
+	height: 1000px;
+	background: white;
+	padding-left: 0;
+	padding-right: 5px;
+}
+.viewtxt{
+	text-align: center;
+	margin-top: 50px;
+}
+.main2{
+	height: 600px;
+	background: white;
+	margin: 20px 0 0 ;
+	padding: 0;
+}
+
+
+.main2 button{
+	    margin-left: 410px;
+    margin-top: 40px;
+    height: 60px;
+    
+    border-radius: 5px;
+    border: 1px solid #bdbdbd;
+    
+    font-weight: 700;
+    
+    text-transform: uppercase;
+    color: #343435;
+    letter-spacing: 0.04em;
+    padding: 0 40px;
+}
+
+.boat{
+	background-image: url(http://designhooks.com/html-demo/nava/img/rent-boat-background.jpg );
+	    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 160px 0;
+    
+}
+.boattxt{
+	margin-top: 50px;
+	text-align: center;
+	color: white;
+}
+.boattxt button{
+	    line-height: 60px;
+    border-radius: 5px;
+    color: #ffffff;
+    height: 60px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 0 40px;
+    background: #e7434e;
+    box-shadow: none;
+    border-style: none;
+
+}
+.featured{
+margin: 20px 0 0 ;
+	padding: 0;
+}
+.featuredtxt{
+	text-align: center;
+}
+.featured2{
+	margin: 20px 0 0 ;
+	padding: 0;
+}
+.divft1{
+	background-image: url("../img/boat-1.jpg" );
+     background-repeat: no-repeat;
+	height: 325px;
+
+}
+.divft2{
+	background-image: url("../img/boat-2.jpg");
+     background-repeat: no-repeat;
+	height: 325px;
+}	
+.divft3{
+	background-image: url("../img/boat-3.jpg");
+     background-repeat: no-repeat;
+	height: 325px;
+}	
+.divft4{
+	background-image: url("../img/boat-4.jpg");
+     background-repeat: no-repeat;
+	height: 325px;
+}
+.buttonend {
+	background: transparent;
+	    margin-left: 450px;
+    margin-top: 40px;
+    height: 60px;
+    border-radius: 5px;
+    border: 1px solid #bdbdbd;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #343435;
+    letter-spacing: 0.04em;
+    padding: 0 40px;
+    margin-bottom: 20px;
+}	
+.footer{
+	background: #404040;
+	height: 250px;
+	margin-top: 40px;
+}
+.footer a,h5{
+	margin-top: 80px;
+	color: white;
+	text-decoration: none;
+
+}
+.newsletter input{
+	display: block;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 0 155px 0 20px;
+    font-size: 14px;
+    color: #2c3e50
+}
+.newsletter button{
+    position: absolute;
+    background: #e7434e;
+   border-radius: 5px;
+    right:1px;
+    top: 40px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+        margin-right: -13px;
+    
+    
+}
+
+.newsletter{
+	margin-top: 65px;
+	color: white;
+}
+.gallery{
+
+    margin-left: 228px;
+}
+.explore {
+	background: transparent;
+}
+.featuredtxt  :hover{
+    opacity: .7;
+}
+.divft1:hover{
+    opacity: .7;
+}
+.divft4:hover{
+    opacity: .7;
+}
+.divft2:hover{
+    opacity: .7;
+}
+.divft3:hover{
+    opacity: .7;
+}
+.signup:hover{
+ opacity: .7;
+}
+.main1 img:hover{
+    opacity: .5;
+}
+.explore:hover{
+    opacity: .5;
+}
+.rent:hover{
+    opacity: .3;
+}
