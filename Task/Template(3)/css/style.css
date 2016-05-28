@@ -110,3 +110,27 @@ nav ul li a {
 	
 	opacity: .7;
 }
+.cover{
+	
+	height: 568px;
+	padding: 0;
+	margin:0;
+}
+.colorback{
+	background-color: #e59205;
+	height: 558px;
+}
+.imgback{
+	background-image: url(../img/covermeat.jpg);
+	background-repeat: no-repeat;
+	height: 570px;
+}
+.foutmenu {
+	color:#6e7498;
+	margin-top: 50px;
+	text-align: center;
+}
+.foot{
+	margin-left: 103px;
+	margin-top: 70px;
+}
