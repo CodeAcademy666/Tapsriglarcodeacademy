@@ -1,0 +1,189 @@
+
+/*header */
+
+.header{
+	background-image: url("../img/bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 796px;
+}
+/*header end*/
+
+
+/*logo*/
+.logo{
+	color:white;
+	margin-top: 20px;
+}
+/*logo end*/
+/*menu*/
+.menu ul li a{
+  color: white;
+ 
+  margin-top: 25px;
+ }
+  .menu ul li a:hover{
+  background-color: transparent;
+ }
+   .menu ul li a:focus{
+  background-color: transparent;
+ }
+  .menu ul li:hover{
+  border-bottom: 3px solid white;
+ }
+/* menu end*/
+/*black& white center logo*/
+.headerlogo{
+	margin-top: 230px;
+}
+.headerlogo button{
+	color:white;
+	background: transparent;
+	opacity: .7;
+	 width: 217px;
+    height: 57px;
+    margin-top: 50px;
+    margin-left: 160px;
+}
+/*black& white center logo end*/
+/*main*/
+.main{
+	height: 360px;
+	background-color: white;
+}
+.text{
+	margin-top: 70px;
+}
+/*main end*/
+/*gallery*/
+.gallery{
+	background-color: #F3F3F3;
+	height: 1000px;
+}
+.Heading {
+	margin-top: 114px;
+	text-align: center;
+	color:black;
+}
+.post1{
+   width:700px;
+   height:250px;
+}
+.post4{
+position:relative;
+	top:20px;
+	left:30px;
+    width:700px;
+    height:250px;
+}
+.post2{
+	width:360px;
+	height:250px;
+}
+.post3{
+	position:relative;
+	top:20px;
+	width:360px;
+	height:250px;
+}
+.gallery1{
+	margin-top: 50px;
+}
+.gallery1:hover img {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="linear" slope="0.7" /><feFuncG type="linear" slope="0.7" /><feFuncB type="linear" slope="0.7" /></feComponentTransfer></filter></svg>#filter');
+  filter: brightness(0.7);
+  -webkit-filter: brightness(0.7);
+}
+
+/*gallery1 end*/
+/*mail*/
+.mail{
+	margin-top: 54px;
+	background-color: white;
+	height: 200px;
+}
+.textmail{
+	height: 200px;
+	margin-top: 70px;
+}
+.sendmail{
+
+	height: 200px;
+	margin-top: 70px;
+	
+}
+    
+
+.search{
+    border:1px solid;
+	width: 350px;
+    height: 50px;
+    background: transparent;
+}
+
+.sendbtn{
+        color: white;
+    border-style: none;
+    height: 49px;
+    background: #343638;
+    width: 125px;
+}
+.placeholder{
+	margin-left: 50px;
+}
+/*mail end*/
+/*fouter*/
+.fouter{
+	margin-top: 50px;
+	
+	height: 300px;
+}
+.about{height: 400px;
+
+
+}
+.contact{
+height: 400px;
+
+}
+.tweets{
+height: 400px;
+}
+.newsletter{
+	height: 400px;
+	
+}
+.fouter p{
+	color:grey;
+}
+.fouter h6{
+	color:#dddddd;
+}
+.footer{
+	border-top: 1px solid #f0f0f0;
+	height: 100px;
+}
+.copryting{
+	
+	height: 70px;
+}
+.menubar{
+	
+	height: 70px;
+}
+.copryting{
+	margin-top: 20px;
+}
+.menubar h4{
+	color:black
+	margin-top: 20px;
+
+}
+/*fouter end*/
+
+
+
+

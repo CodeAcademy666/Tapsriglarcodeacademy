@@ -1,0 +1,223 @@
+*{
+	transition: 2s linear;
+}
+
+/*header*/
+.header{
+
+	background-image: url(../img/bg.jpg);
+	height: 796px;
+}
+/*header end*/
+/*menu nav*/
+nav {
+  text-decoration: none;
+  max-width: 960px;
+  mask-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #ffffff 25%, #ffffff 75%, rgba(255, 255, 255, 0) 100%);
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+
+
+nav ul li {
+  text-decoration: none;
+  display: inline-block;
+}
+
+nav ul li a {
+	text-decoration: none;
+  padding: 20px;
+  font-family: "Roboto";
+  color: white;
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.4);
+  font-size: 25px;
+  text-decoration: none;
+  display: block;
+}
+
+/*menu nav end*/
+/*logo*/
+.logo h1{
+	margin-left: 69px;
+	font-family: 'Kanit', sans-serif;
+    color: #E59205;
+    margin-top: 50px;
+    font-size: 63px;
+}
+/*logo end*/
+/*eudora Eudora is simpletemplat */
+.eudora {
+	color:white;
+	margin-top: 250px
+}
+/*eudora Eudora is simpletemplat end */
+/*button*/
+.butone{
+	background:transparent;
+	height: 50px;
+	width: 142px;
+	margin-left: 87px;
+	margin-top: 50px;
+}
+/*button end*/
+/* sale*/
+.sale{
+	background-color: white;
+	height: 800px;
+}
+/* sale*/
+/*foot menyu*/
+.lorem{
+	margin-top: 50px;
+	color:#6e7498;
+	text-align: center;
+}
+.btn{
+	background: transparent;
+	border: 1px solid #6e7498;;
+}
+.meat{
+	margin-top: 45px;
+	background-color: #e59205;
+	border: none;
+	height: 52px;
+    width: 128px;
+}
+.meat h4{
+	color:white;
+
+}
+.albtn{
+	height: 64px;
+    width: 161px;
+    background: transparent;
+    border: 1px solid grey;
+    margin-left:17px;
+    margin-top: 20px;
+}
+.galery p{
+	margin-top: 35px;
+
+}
+.galery3 h1{
+	color:#e59205;
+	text-align: center;
+}
+.galery3 p{
+	color:grey;
+	text-align: center;
+}
+.galery3 h3{
+	margin-left: 10px;
+	text-align: center;
+}
+.albtn1{
+	height: 47px;
+    width: 101px;
+    background: transparent;
+    border: 1px solid grey;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.galerys{
+	margin-top: 44px;
+    margin-left: 53px;
+}
+.galerys img:hover{
+	height: 200px;
+	
+	opacity: .7;
+
+}
+/*  foot menyu end*/
+/*cover*/
+.cover{
+	
+	height: 568px;
+	padding: 0;
+	margin:0;
+}
+.colorback{
+	
+	background-color: #e59205;
+	height: 558px;
+}
+
+.colorback h1{
+	font-size: 60px;
+	margin-top: 60px;
+	color:white;
+	text-align: center;
+
+}
+.imgback{
+	background-image: url(../img/covermeat.jpg);
+	background-repeat: no-repeat;
+	height: 570px;
+}
+
+/*cover end*/
+/*footer */
+
+.foot{
+
+	margin-top: 70px;
+}
+/*fouterimg*/
+.fouterimg{
+	margin-top: 50px;
+	background-image: url("../img/fouter.jpg");
+	height: 650px;
+	 text-align: center;
+}
+
+.fouterimg h1{
+	color:white;
+	text-align: center;
+	margin-top: 100px;
+}
+#fouterid{
+	height: 50px;
+    color: white;
+    border: 1px solid white;
+    margin-top: 50px;
+    
+    background: transparent;
+    width: 353px;
+	
+}
+.clickbtn{
+	    width: 160px;
+    background-color: #e59205;
+    font-size: 25px;
+    border: none;
+    height: 63px;
+    margin-top: 50px;
+    text-align: center;
+    color:white;
+}
+/*fouterimg end*/
+/*footer*/
+.footer{
+	height: 150px;
+
+}
+.footer p{
+	margin-top: 70px;
+
+
+}
+
+.footermenu ul li{
+	padding-left: 20px;
+	margin-top: 70px;
+	float: left;
+	list-style-type: none;
+}
+.foutmenu {
+	color:#6e7498;
+	margin-top: 50px;
+	text-align: center;
+}
+/*footer end*/

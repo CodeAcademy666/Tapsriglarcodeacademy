@@ -1,0 +1,228 @@
+.header{				/*header*/
+	background-image: url(../img/bg.jpg);
+	height: 800px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.logo span{
+	color:#EA6742;
+}
+.headertxt{
+margin-top: 200px;
+}
+.headertxt h1{
+
+	color: white;
+	text-align: center;
+
+}
+.headertxt p{
+	color: white;
+	text-align: center;
+}
+.headertxt button{
+	float: left;
+	height: 50px;
+	width: 220px;
+	color: white;
+	border-radius: 10px;
+	margin-left: 45px;
+	margin-top: 20px;
+
+
+}
+.headerbtn1{
+	background-color: #EA6742;
+	border: 0;
+
+}
+.headerbtn2{
+	background-color: transparent;
+}		/*header end*/
+.design{		/*design*/
+	height: 400px;
+}
+.design h5 {
+	 margin-left: 30px;
+	 color: black;
+
+}
+.design img{
+	margin-top: 70px;
+	width: 150px;
+	height: 150px;
+}
+.design p {
+	color: black;
+	margin-left: 25px;
+    margin-top: 25px;
+    	/*design end*/
+}
+.subscride{		/*subscride*/
+	height: 240px;
+	background-image: url(../img/subscride.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	    
+}
+.subscride input{
+	margin-top: 100px;
+	height: 40px;
+	margin-left: 20px;
+	border-radius: 10px;
+}
+.subscride input{
+	width: 300px;	
+}
+.subscride button{
+	height: 40px;
+	margin-left: 20px;
+	border-radius: 10px;
+	background-color: #EA6742;
+  	width: 230px;
+  	border:0;
+  	color: white;
+}			/*subscride end*/
+.works{  /*works*/
+	text-align: center;
+	margin-top: 40px;
+}
+.works img{
+	height: 350px;
+	width:350px;
+	margin-top: 70px;
+}
+
+.works p , h1 {
+	text-align: center;
+	color: black;
+	margin-top: 40px;
+}
+.works img:hover{
+	opacity: .5
+}
+
+.workstitle {
+	text-align: center;
+}
+.works2{
+	margin-top: 30px;
+}
+.works2 img:hover{
+	opacity: .5
+}
+.works2 img{
+	height: 350px;
+	width:350px;
+}		/*works end*/
+.wrkbtn {
+	background-color: transparent;
+	height: 40px;
+	width: 220px;
+	margin-left: 500px;
+	margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1px solid grey;
+}
+.slider{
+	background-image: url(../img/cover.jpg);	/*slider*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
+	text-align: center;
+}
+.slider img {
+	margin-top: 100px;
+}
+.slider p {
+	margin-top: 40px;
+	color: white;
+}
+.slider h5 {
+	margin-top: 40px;
+	color: white;	/*slider end*/
+}
+.team{	/*team*/
+	height: 900px;
+	text-align: center;
+	
+}
+.team  p {
+	color: black;
+	margin-top: 35px
+}
+.team h2 {
+	text-align: center;
+	margin-top: 100px;
+}
+.team img{
+	
+	margin-top: 80px;
+}
+.team img:hover{
+	height: 300px;
+
+}	/*team end*/
+
+.contact{	/*contact*/
+	height: 600px;
+	background-image: url(../img/contact.png);
+	background: cover;
+	background-repeat: no-repeat;
+	
+}
+.contacttxt h3,p {
+	color: white;
+}
+.contacttxt{
+	margin-top: 100px;
+	text-align: center;
+}
+.contact textarea{
+	margin-top: 20px;
+	border-radius: 5px;
+}		
+.form input{
+	width: 255px;
+	margin-top: 50px;
+	border-radius: 10px;
+	height: 35px;
+	border: 0;
+}
+.form button{
+	background-color: #EA6742;
+	color: white;
+	height: 35px;
+	width: 200px;
+	border: 0;
+
+}
+/*contact end*/
+.footer{  /*footer*/
+	height: 100px;
+	background-color: #3b434c;
+	color: white;
+}
+.footer h6{
+	margin-top: 50px;
+}
+.abc{
+	border-radius: 100%;
+}
+.twticon{
+	color: white;
+	float: right;
+	margin-right: 20px;
+}
+.fbicon{
+	color: white;
+	float: right;
+	margin-right: 30px;
+}
+.googleicon{
+	color: white;
+	float: right;
+	margin-right: 70px;
+}
+/*footer end*/
