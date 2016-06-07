@@ -1,0 +1,32 @@
+.btn{
+
+  background-color: #c0392b;
+ border-radius: 5px;
+ color: white;
+ width: 105px;
+ height: 38px;
+}
+.btn:hover{
+ border-bottom: 2px solid red;
+ background: #e74c3c;
+-webkit-transform: translateY(8px);
+ transform: translateY(9px);
+ }
+  .sual{
+
+    border-radius: 50px;
+    color:white;
+    background-color: #e67e22;
+    height: 600px;
+  }
+
+
+
+  body{
+
+
+    background-color: #d35400;
+  }
+  p{
+    color:yellow;
+  }

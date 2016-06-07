@@ -105,30 +105,30 @@
 
 
 
-// function hacker(ad,leqeb,yas){
-// 	this.ad=ad;
-// 	this.leqeb=leqeb;
-// 	this.yas=yas;
-// }
-// var hacker1=new hacker("Arif","kroniqs",17);
-// document.write(hacker1.yas);
+function hacker(ad,leqeb,yas){
+	this.ad=ad;
+	this.leqeb=leqeb;
+	this.yas=yas;
+}
+var hacker1=new hacker("Arif","kroniqs",17);
+document.write(hacker1.yas);
 
 
-// document.write("<br/>");
+document.write("<br/>");
 
-// var olke1 = {dil:"Azeri",materik:"Avrasiya",paytaxt:"Baku"};
+var olke1 = {dil:"Azeri",materik:"Avrasiya",paytaxt:"Baku"};
 
-// var olke2 = {dil:"ermeni",materik:"peyser",paytaxt:"daldan"};
+var olke2 = {dil:"ermeni",materik:"peyser",paytaxt:"daldan"};
 
-// var olke3 = {dil:"eng",materik:"nem",paytaxt:"boobs"};
+var olke3 = {dil:"eng",materik:"nem",paytaxt:"boobs"};
 
 
 
-// document.write(olke1.dil);
-// document.write("<br/>");
-// document.write(olke2.dil);
-// document.write("<br/>");
-// document.write(olke3.dil);
+document.write(olke1.dil);
+document.write("<br/>");
+document.write(olke2.dil);
+document.write("<br/>");
+document.write(olke3.dil);
 
 
 
